@@ -7,12 +7,10 @@
                 "question": "香港的人口在哪一年代變成女多男少?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "2000年代",
                         "answer_start": 24
                     },
                     {
-                        "id": "2",
                         "text": "2000年代",
                         "answer_start": 24
                     }
@@ -28,12 +26,10 @@
                 "question": "當時省長的職責是?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "管理所屬行政區域的地方官員",
                         "answer_start": 36
                     },
                     {
-                        "id": "2",
                         "text": "管理所屬行政區域的地方官員",
                         "answer_start": 36
                     }
@@ -49,12 +45,10 @@
                 "question": "上吊、槍械以及哪種自殺方式為較常所用到?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "殺蟲劑中毒",
                         "answer_start": 44
                     },
                     {
-                        "id": "2",
                         "text": "殺蟲劑中毒",
                         "answer_start": 44
                     }
@@ -70,12 +64,10 @@
                 "question": "新北市政府教育局是負責哪一行政區之教育的機關？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "新北市",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "新北市",
                         "answer_start": 0
                     }
@@ -91,12 +83,10 @@
                 "question": "草木或動物改變成為的精怪又被稱為?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "妖怪",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "妖怪",
                         "answer_start": 0
                     }
@@ -112,12 +102,10 @@
                 "question": "台灣正式割讓給日本是依據哪一條約?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "馬關條約",
                         "answer_start": 22
                     },
                     {
-                        "id": "2",
                         "text": "馬關條約",
                         "answer_start": 22
                     }
@@ -133,12 +121,10 @@
                 "question": "「第一公民」字面上的意義是?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "首席的元老",
                         "answer_start": 37
                     },
                     {
-                        "id": "2",
                         "text": "首席的元老",
                         "answer_start": 37
                     }
@@ -154,12 +140,10 @@
                 "question": "日本對臺灣人進行愛國教育是因應何政策?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "殖民政策",
                         "answer_start": 7
                     },
                     {
-                        "id": "2",
                         "text": "殖民政策",
                         "answer_start": 7
                     }
@@ -175,12 +159,10 @@
                 "question": "《光學》的作者是誰?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "海什木",
                         "answer_start": 17
                     },
                     {
-                        "id": "2",
                         "text": "海什木",
                         "answer_start": 17
                     }
@@ -196,12 +178,10 @@
                 "question": "盧安達共和國每一年有幾個旱季?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "兩個",
                         "answer_start": 128
                     },
                     {
-                        "id": "2",
                         "text": "兩個",
                         "answer_start": 128
                     }
@@ -217,12 +197,10 @@
                 "question": "雷諾汽車目前持有日產汽車多少比例的普通股股權?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "43.4%",
                         "answer_start": 116
                     },
                     {
-                        "id": "2",
                         "text": "43.4%",
                         "answer_start": 116
                     }
@@ -238,12 +216,10 @@
                 "question": "悍馬四輪驅動越野車XM1124是美軍在哪一年之後持續研發的車輛?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1985年",
                         "answer_start": 3
                     },
                     {
-                        "id": "2",
                         "text": "1985年",
                         "answer_start": 3
                     }
@@ -259,12 +235,10 @@
                 "question": "歐洲最大的部隊演練場地位在哪邊？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "貝爾根",
                         "answer_start": 12
                     },
                     {
-                        "id": "2",
                         "text": "貝爾根",
                         "answer_start": 12
                     }
@@ -280,12 +254,10 @@
                 "question": "在二十世紀的前三十年，美國的電力需求，每年平均至少會增長多少百分比?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "7%",
                         "answer_start": 176
                     },
                     {
-                        "id": "2",
                         "text": "7%",
                         "answer_start": 176
                     }
@@ -301,12 +273,10 @@
                 "question": "「蓋德爾語」指的是哪一種語言?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "愛爾蘭語",
                         "answer_start": 49
                     },
                     {
-                        "id": "2",
                         "text": "愛爾蘭語",
                         "answer_start": 49
                     }
@@ -322,12 +292,10 @@
                 "question": "史都華的作品中，有幾部是戰爭片?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "2部",
                         "answer_start": 117
                     },
                     {
-                        "id": "2",
                         "text": "2",
                         "answer_start": 117
                     }
@@ -343,12 +311,10 @@
                 "question": "為甚麼現今有許多風機的高度都超過100公尺?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "風機高度愈高，發電量愈多",
                         "answer_start": 35
                     },
                     {
-                        "id": "2",
                         "text": "風機高度愈高，發電量愈多",
                         "answer_start": 35
                     }
@@ -364,12 +330,10 @@
                 "question": "元成宗指的是何人?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "鐵穆爾",
                         "answer_start": 53
                     },
                     {
-                        "id": "2",
                         "text": "鐵穆爾",
                         "answer_start": 53
                     }
@@ -385,12 +349,10 @@
                 "question": "村民委員會是依照哪一條法律設置的?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "《中華人民共和國村民委員會組織法》",
                         "answer_start": 52
                     },
                     {
-                        "id": "2",
                         "text": "中華人民共和國村民委員會組織法",
                         "answer_start": 53
                     }
@@ -406,12 +368,10 @@
                 "question": "科幻小說誕生於19世紀，是因當時哪種環境背景產生了此類文學作品?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "歐洲工業文明崛起",
                         "answer_start": 13
                     },
                     {
-                        "id": "2",
                         "text": "歐洲工業文明崛起",
                         "answer_start": 13
                     }
@@ -427,12 +387,10 @@
                 "question": "元世祖在哪一年南征占城?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1284年",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "1284年",
                         "answer_start": 0
                     }
@@ -448,12 +406,10 @@
                 "question": "民國13年的江浙戰爭中由哪一個軍閥獲勝?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "直系",
                         "answer_start": 52
                     },
                     {
-                        "id": "2",
                         "text": "齊燮元",
                         "answer_start": 25
                     }
@@ -469,12 +425,10 @@
                 "question": "哪一種顏色包含光譜中所有顏色光?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "白色",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "白色",
                         "answer_start": 0
                     }
@@ -490,12 +444,10 @@
                 "question": "當時黃河南北與關中地區為何難有經濟發展?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "人民頻繁的遷移",
                         "answer_start": 95
                     },
                     {
-                        "id": "2",
                         "text": "人民頻繁的遷移",
                         "answer_start": 95
                     }
@@ -511,12 +463,10 @@
                 "question": "新約聖經的作者以什麼身分的人占大部分？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "猶太基督徒",
                         "answer_start": 17
                     },
                     {
-                        "id": "2",
                         "text": "猶太基督徒",
                         "answer_start": 17
                     }
@@ -532,12 +482,10 @@
                 "question": "臺灣目前的兩大產業為服務業和哪一產業?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "高科技產業",
                         "answer_start": 66
                     },
                     {
-                        "id": "2",
                         "text": "高科技產業",
                         "answer_start": 118
                     }
@@ -553,12 +501,10 @@
                 "question": "能夠當做燃料或者工業原料，活著或剛死去的有機物又稱為什麼?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "生物質",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "生物質",
                         "answer_start": 0
                     }
@@ -574,12 +520,10 @@
                 "question": "南斯拉夫各民族之間的矛盾逐漸激化是由於東歐社會主義國家經濟衰退、東歐劇變以及什麼條件?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "民族主義復活",
                         "answer_start": 29
                     },
                     {
-                        "id": "2",
                         "text": "民族主義復活",
                         "answer_start": 29
                     }
@@ -595,12 +539,10 @@
                 "question": "盧安達於2015年時其人均GDP估計為多少美元?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "731",
                         "answer_start": 154
                     },
                     {
-                        "id": "2",
                         "text": "731美元",
                         "answer_start": 154
                     }
@@ -616,12 +558,10 @@
                 "question": "高句麗國王安原王的前一任國王是怎麼死的？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "被刺殺",
                         "answer_start": 26
                     },
                     {
-                        "id": "2",
                         "text": "被刺殺",
                         "answer_start": 26
                     }
@@ -637,12 +577,10 @@
                 "question": "哪一門語言在韓國被視為官方語言？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "韓語",
                         "answer_start": 8
                     },
                     {
-                        "id": "2",
                         "text": "韓語",
                         "answer_start": 8
                     }
@@ -658,12 +596,10 @@
                 "question": "上海站是由哪一個單位管轄?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "上海鐵路局",
                         "answer_start": 21
                     },
                     {
-                        "id": "2",
                         "text": "上海鐵路局",
                         "answer_start": 21
                     }
@@ -679,12 +615,10 @@
                 "question": "在哪一座公園中可以看到賽丁泉天文台？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "瓦倫本哥國家公園",
                         "answer_start": 108
                     },
                     {
-                        "id": "2",
                         "text": "瓦倫本哥國家公園",
                         "answer_start": 108
                     }
@@ -700,12 +634,10 @@
                 "question": "可汗意同於漢語中的什麼意思?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "天子",
                         "answer_start": 162
                     },
                     {
-                        "id": "2",
                         "text": "天子",
                         "answer_start": 162
                     }
@@ -721,12 +653,10 @@
                 "question": "齊王朱榑的爵位在誰稱帝後獲得恢復?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "朱棣",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "朱棣",
                         "answer_start": 0
                     }
@@ -742,12 +672,10 @@
                 "question": "鬼火現象與哪一個存在於動物體內的化學物質有關?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "磷",
                         "answer_start": 115
                     },
                     {
-                        "id": "2",
                         "text": "磷",
                         "answer_start": 115
                     }
@@ -763,12 +691,10 @@
                 "question": "今日納戈爾諾卡拉巴赫的衝突是由於高加索局以及誰所做的決策?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "約瑟夫",
                         "answer_start": 29
                     },
                     {
-                        "id": "2",
                         "text": "約瑟夫",
                         "answer_start": 29
                     }
@@ -784,12 +710,10 @@
                 "question": "歐洲出現的第一種制式化警用散彈槍是由哪一個國家開發的?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "英國",
                         "answer_start": 120
                     },
                     {
-                        "id": "2",
                         "text": "英國",
                         "answer_start": 120
                     }
@@ -805,12 +729,10 @@
                 "question": "哪一口號是大長今在湖南衛視播出時使用的？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "青春勵志片",
                         "answer_start": 116
                     },
                     {
-                        "id": "2",
                         "text": "青春勵志片",
                         "answer_start": 116
                     }
@@ -826,12 +748,10 @@
                 "question": "中華民國政府於1949年之後根據兩條法令，持續政治上與社會上的高壓控制，一條法令是戒嚴令，另一條法令是?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "《動員戡亂時期臨時條款》",
                         "answer_start": 22
                     },
                     {
-                        "id": "2",
                         "text": "《動員戡亂時期臨時條款》",
                         "answer_start": 22
                     }
@@ -847,12 +767,10 @@
                 "question": "彰化地區第一個漢人聚落「半線庄」被記載在高拱乾的哪一本著作中?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "《臺灣府志》",
                         "answer_start": 95
                     },
                     {
-                        "id": "2",
                         "text": "《臺灣府志》",
                         "answer_start": 95
                     }
@@ -868,12 +786,10 @@
                 "question": "國際野生生物保護學會主要的研究目標除了生態系統，還有哪一項?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "瀕危物種",
                         "answer_start": 56
                     },
                     {
-                        "id": "2",
                         "text": "瀕危物種",
                         "answer_start": 56
                     }
@@ -889,12 +805,10 @@
                 "question": "下薩克森邦在1946年時由哪一國建立？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "英國",
                         "answer_start": 58
                     },
                     {
-                        "id": "2",
                         "text": "英國",
                         "answer_start": 58
                     }
@@ -910,12 +824,10 @@
                 "question": "托木斯克州的首府為哪一個城市?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "托木斯克",
                         "answer_start": 62
                     },
                     {
-                        "id": "2",
                         "text": "托木斯克",
                         "answer_start": 62
                     }
@@ -931,12 +843,10 @@
                 "question": "跨站式車站的哪一種規劃難度較高?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "無障礙環境的規劃",
                         "answer_start": 82
                     },
                     {
-                        "id": "2",
                         "text": "無障礙環境",
                         "answer_start": 82
                     }
@@ -952,12 +862,10 @@
                 "question": "民主共和黨在1790年代為詹姆斯麥迪遜以及誰所創立?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "湯瑪斯傑佛遜",
                         "answer_start": 11
                     },
                     {
-                        "id": "2",
                         "text": "詹姆斯麥迪遜",
                         "answer_start": 18
                     }
@@ -973,12 +881,10 @@
                 "question": "鐵路機車的作用是?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "在軌道上驅動列車",
                         "answer_start": 28
                     },
                     {
-                        "id": "2",
                         "text": "在軌道上驅動列車",
                         "answer_start": 28
                     }
@@ -994,12 +900,10 @@
                 "question": "龍捲風指數為F5的龍捲風在哪一年襲擊了Elie小鎮?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "2007年",
                         "answer_start": 217
                     },
                     {
-                        "id": "2",
                         "text": "2007年",
                         "answer_start": 217
                     }
@@ -1015,12 +919,10 @@
                 "question": "連續14年有超過3萬人自殺是日本警察廳表示從西元幾年開始的事情?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "2000年",
                         "answer_start": 14
                     },
                     {
-                        "id": "2",
                         "text": "2000年",
                         "answer_start": 14
                     }
@@ -1036,12 +938,10 @@
                 "question": "田漢在哪一年時由於被抨擊為「右派」而含冤去世?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1968年",
                         "answer_start": 47
                     },
                     {
-                        "id": "2",
                         "text": "1968年",
                         "answer_start": 47
                     }
@@ -1057,12 +957,10 @@
                 "question": "海都之亂和哪一次大會有關?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "庫里爾台大會",
                         "answer_start": 48
                     },
                     {
-                        "id": "2",
                         "text": "庫里爾台大會",
                         "answer_start": 48
                     }
@@ -1078,12 +976,10 @@
                 "question": "奧斯陸這個名字於什麼時候被恢復使用?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1925年",
                         "answer_start": 36
                     },
                     {
-                        "id": "2",
                         "text": "1925年",
                         "answer_start": 36
                     }
@@ -1099,12 +995,10 @@
                 "question": "大部分在香港的福建人都居住在哪一個區域?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "港島區",
                         "answer_start": 55
                     },
                     {
-                        "id": "2",
                         "text": "港島區",
                         "answer_start": 55
                     }
@@ -1120,12 +1014,10 @@
                 "question": "什麼時期的歐洲學者在記錄梵文時愛好使用天城體？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "19世紀",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "19世紀",
                         "answer_start": 0
                     }
@@ -1141,12 +1033,10 @@
                 "question": "可能是第一個接受現行新約正典的會議在哪邊舉行？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "北非",
                         "answer_start": 19
                     },
                     {
-                        "id": "2",
                         "text": "北非",
                         "answer_start": 19
                     }
@@ -1162,12 +1052,10 @@
                 "question": "哪個詞由於新政的關係使得美國的定義轉變?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "自由主義",
                         "answer_start": 11
                     },
                     {
-                        "id": "2",
                         "text": "自由主義",
                         "answer_start": 11
                     }
@@ -1183,12 +1071,10 @@
                 "question": "多少日元為長崎縣2014年的工業品生產金額?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "15,625億日元",
                         "answer_start": 17
                     },
                     {
-                        "id": "2",
                         "text": "15,625億日元",
                         "answer_start": 17
                     }
@@ -1204,12 +1090,10 @@
                 "question": "為什麼著陸埃歐的探測器都不需要安裝隔熱板?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "埃歐的大氣層極端稀薄",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "埃歐的大氣層極端稀薄",
                         "answer_start": 0
                     }
@@ -1225,12 +1109,10 @@
                 "question": "法軍在8月中旬被普軍包圍於何處?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "麥茨要塞",
                         "answer_start": 124
                     },
                     {
-                        "id": "2",
                         "text": "麥茨要塞",
                         "answer_start": 124
                     }
@@ -1246,12 +1128,10 @@
                 "question": "欽察語支指的是哪一種語言的西北語支?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "突厥語",
                         "answer_start": 2
                     },
                     {
-                        "id": "2",
                         "text": "突厥語",
                         "answer_start": 2
                     }
@@ -1267,12 +1147,10 @@
                 "question": "北京政府自什麼時候開始於滇水道及蒙自道各地設置觀察使?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "民國3年",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "民國3年",
                         "answer_start": 0
                     }
@@ -1288,12 +1166,10 @@
                 "question": "莫斯科共同宣言發表時韓國的領導人是誰？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "金泳三",
                         "answer_start": 73
                     },
                     {
-                        "id": "2",
                         "text": "金泳三",
                         "answer_start": 73
                     }
@@ -1309,12 +1185,10 @@
                 "question": "索馬利蘭的的法律大致上是實施誰統治索馬利亞時的法律？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "莫哈梅·西亞德·巴雷",
                         "answer_start": 42
                     },
                     {
-                        "id": "2",
                         "text": "莫哈梅·西亞德·巴雷",
                         "answer_start": 42
                     }
@@ -1330,12 +1204,10 @@
                 "question": "岳飛發生何事，導致其自稱「十年之力，廢於一旦」?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "收到十二道金牌班師回朝",
                         "answer_start": 3
                     },
                     {
-                        "id": "2",
                         "text": "收到十二道金牌班師回朝",
                         "answer_start": 3
                     }
@@ -1351,12 +1223,10 @@
                 "question": "張學良的住所在哪一個事件發生時被封鎖而缺乏食物只能靠原住民給蕃薯才有飯吃?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "二二八事件",
                         "answer_start": 112
                     },
                     {
-                        "id": "2",
                         "text": "二二八事件",
                         "answer_start": 112
                     }
@@ -1372,12 +1242,10 @@
                 "question": "如何得知中國的死刑人數?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "無以得知",
                         "answer_start": 135
                     },
                     {
-                        "id": "2",
                         "text": "無以得知",
                         "answer_start": 135
                     }
@@ -1393,12 +1261,10 @@
                 "question": "韋林花園都市的規模如何？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "非常小",
                         "answer_start": 45
                     },
                     {
-                        "id": "2",
                         "text": "非常小",
                         "answer_start": 45
                     }
@@ -1414,12 +1280,10 @@
                 "question": "前趙的北地郡指的是哪一州?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "幽州",
                         "answer_start": 77
                     },
                     {
-                        "id": "2",
                         "text": "幽州",
                         "answer_start": 77
                     }
@@ -1435,12 +1299,10 @@
                 "question": "於西元幾年時腳踏車傳入了中國?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1875年",
                         "answer_start": 6
                     },
                     {
-                        "id": "2",
                         "text": "1875年",
                         "answer_start": 6
                     }
@@ -1456,12 +1318,10 @@
                 "question": "托爾金在哪一個郡養病?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "斯塔福德郡",
                         "answer_start": 46
                     },
                     {
-                        "id": "2",
                         "text": "斯塔福德郡",
                         "answer_start": 46
                     }
@@ -1477,12 +1337,10 @@
                 "question": "保羅•狄拉克的父親的職業是什麼?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "法文老師",
                         "answer_start": 79
                     },
                     {
-                        "id": "2",
                         "text": "法文老師",
                         "answer_start": 79
                     }
@@ -1498,12 +1356,10 @@
                 "question": "「薩格勒布宣言」於何年宣布?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1932年",
                         "answer_start": 12
                     },
                     {
-                        "id": "2",
                         "text": "1932",
                         "answer_start": 12
                     }
@@ -1519,12 +1375,10 @@
                 "question": "都安瑤族自治縣於民國四年時是由都陽和哪一個土司合置成的?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "安定",
                         "answer_start": 63
                     },
                     {
-                        "id": "2",
                         "text": "安定",
                         "answer_start": 63
                     }
@@ -1540,12 +1394,10 @@
                 "question": "古羅馬的同性戀文化最早可以追溯至哪一個時期?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "羅馬共和國時期",
                         "answer_start": 59
                     },
                     {
-                        "id": "2",
                         "text": "羅馬共和國時期",
                         "answer_start": 59
                     }
@@ -1561,12 +1413,10 @@
                 "question": "乙醚的氣味具有哪一種特性?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "刺激性",
                         "answer_start": 47
                     },
                     {
-                        "id": "2",
                         "text": "刺激性",
                         "answer_start": 47
                     }
@@ -1582,12 +1432,10 @@
                 "question": "用一般的聽診器聽診時所聽到的哪一種心音又稱為心闖音?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "第三心音",
                         "answer_start": 155
                     },
                     {
-                        "id": "2",
                         "text": "第三心音",
                         "answer_start": 155
                     }
@@ -1603,12 +1451,10 @@
                 "question": "建立高句麗的君主原本是哪一國家的人民？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "夫餘國",
                         "answer_start": 43
                     },
                     {
-                        "id": "2",
                         "text": "夫餘國",
                         "answer_start": 43
                     }
@@ -1624,12 +1470,10 @@
                 "question": "昆明長水國際機場啟用的當天哪一個機場停用?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "昆明巫家壩國際機場",
                         "answer_start": 29
                     },
                     {
-                        "id": "2",
                         "text": "昆明巫家壩國際機場",
                         "answer_start": 29
                     }
@@ -1645,12 +1489,10 @@
                 "question": "18世紀的時候，來台灣開墾的移民主要是泉州人和哪一個地區的人?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "漳州人",
                         "answer_start": 44
                     },
                     {
-                        "id": "2",
                         "text": "漳州",
                         "answer_start": 44
                     }
@@ -1666,12 +1508,10 @@
                 "question": "唐朝的時候將「帥都督」改為什麼職務?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "「雲騎尉」",
                         "answer_start": 78
                     },
                     {
-                        "id": "2",
                         "text": "雲騎尉",
                         "answer_start": 79
                     }
@@ -1687,12 +1527,10 @@
                 "question": "鮭科魚類當中擁有什麼樣特徵的鮭魚最多占所有種類的百分之三？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "比較有代表性是具高商業價值",
                         "answer_start": 16
                     },
                     {
-                        "id": "2",
                         "text": "具高商業價值",
                         "answer_start": 23
                     }
@@ -1708,12 +1546,10 @@
                 "question": "地大位於哪一個國家境內?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "中華人民共和國",
                         "answer_start": 15
                     },
                     {
-                        "id": "2",
                         "text": "中華人民共和國",
                         "answer_start": 15
                     }
@@ -1729,12 +1565,10 @@
                 "question": "日本經濟在哪一年之後從此一蹶不振?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1920年",
                         "answer_start": 75
                     },
                     {
-                        "id": "2",
                         "text": "1920",
                         "answer_start": 75
                     }
@@ -1750,12 +1584,10 @@
                 "question": "歷史上第一張人民幣面值是多少?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "50元",
                         "answer_start": 113
                     },
                     {
-                        "id": "2",
                         "text": "50元",
                         "answer_start": 113
                     }
@@ -1771,12 +1603,10 @@
                 "question": "哪一個天文台在美國是最老的天文台?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "洛厄爾天文台",
                         "answer_start": 28
                     },
                     {
-                        "id": "2",
                         "text": "洛厄爾天文台",
                         "answer_start": 28
                     }
@@ -1792,12 +1622,10 @@
                 "question": "使用安大略高速鐵路在倫敦和多倫多之間通行的時間會在多久之後縮短至90分鐘之內？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "十年",
                         "answer_start": 9
                     },
                     {
-                        "id": "2",
                         "text": "十年",
                         "answer_start": 9
                     }
@@ -1813,12 +1641,10 @@
                 "question": "遼東在誰成為高句麗國王時成為成為慕容鮮卑家族的勢力範圍？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "美川王",
                         "answer_start": 11
                     },
                     {
-                        "id": "2",
                         "text": "美川王",
                         "answer_start": 11
                     }
@@ -1834,12 +1660,10 @@
                 "question": "《人民日報》在哪一年時報導了中國科學技術大學的成立?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1958年",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "1958年",
                         "answer_start": 0
                     }
@@ -1855,12 +1679,10 @@
                 "question": "金正恩於2016年6月的最高人民會議上被推舉任職哪一個職位?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "國務委員會委員長",
                         "answer_start": 49
                     },
                     {
-                        "id": "2",
                         "text": "國務委員會委員長",
                         "answer_start": 49
                     }
@@ -1876,12 +1698,10 @@
                 "question": "「政企分開、郵儲分離、完善機制」的體制改革方案是由哪一個會議通過的?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "國務院常務會議",
                         "answer_start": 11
                     },
                     {
-                        "id": "2",
                         "text": "國務院常務會議",
                         "answer_start": 11
                     }
@@ -1897,12 +1717,10 @@
                 "question": "雷暴生命週期的哪一個階段可能會有積雨雲進入平流層的現象?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "成熟階段",
                         "answer_start": 1
                     },
                     {
-                        "id": "2",
                         "text": "成熟階段",
                         "answer_start": 1
                     }
@@ -1918,12 +1736,10 @@
                 "question": "苻堅於何年率舉國之師南征東晉?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "383年",
                         "answer_start": 32
                     },
                     {
-                        "id": "2",
                         "text": "383",
                         "answer_start": 32
                     }
@@ -1939,12 +1755,10 @@
                 "question": "「通惠河」在哪一年完工?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "至元三十年",
                         "answer_start": 11
                     },
                     {
-                        "id": "2",
                         "text": "至元三十",
                         "answer_start": 30
                     }
@@ -1960,12 +1774,10 @@
                 "question": "16世紀末葉時日本佛教和神道教與德川幕府不爽哪一外來宗教？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "天主教",
                         "answer_start": 100
                     },
                     {
-                        "id": "2",
                         "text": "天主教",
                         "answer_start": 100
                     }
@@ -1981,12 +1793,10 @@
                 "question": "盧安達境內的人口根據2006年的統計數據顯示大多信奉哪一個宗教?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "天主教",
                         "answer_start": 25
                     },
                     {
-                        "id": "2",
                         "text": "天主教",
                         "answer_start": 25
                     }
@@ -2002,12 +1812,10 @@
                 "question": "大約在中國哪個朝代時，漢語開始大量傳入越南?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "東漢",
                         "answer_start": 31
                     },
                     {
-                        "id": "2",
                         "text": "東漢",
                         "answer_start": 31
                     }
@@ -2023,12 +1831,10 @@
                 "question": "誰首度闡釋了生物個體由單一有核細胞發育而成的可能性?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "奧斯卡·赫特維希",
                         "answer_start": 13
                     },
                     {
-                        "id": "2",
                         "text": "奧斯卡·赫特維希",
                         "answer_start": 13
                     }
@@ -2044,12 +1850,10 @@
                 "question": "目前公認第一種意義上的戰鬥機是哪國先使用的?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "法國",
                         "answer_start": 122
                     },
                     {
-                        "id": "2",
                         "text": "法國",
                         "answer_start": 122
                     }
@@ -2065,12 +1869,10 @@
                 "question": "「建設新貴州」的口號是由誰所提出?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "楊森",
                         "answer_start": 48
                     },
                     {
-                        "id": "2",
                         "text": "楊森",
                         "answer_start": 48
                     }
@@ -2086,12 +1888,10 @@
                 "question": "居住在蘇利南的什麼族群大部分在1975後離開？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "布爾人",
                         "answer_start": 4
                     },
                     {
-                        "id": "2",
                         "text": "布爾人",
                         "answer_start": 4
                     }
@@ -2107,12 +1907,10 @@
                 "question": "南極地區管理的國際性論壇指的是哪一個論壇?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "「南極條約協商會議」",
                         "answer_start": 11
                     },
                     {
-                        "id": "2",
                         "text": "南極條約協商會議",
                         "answer_start": 12
                     }
@@ -2128,12 +1926,10 @@
                 "question": "《風雲人物》在當年得到幾個奧斯卡獎項提名?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "5個",
                         "answer_start": 22
                     },
                     {
-                        "id": "2",
                         "text": "5個",
                         "answer_start": 22
                     }
@@ -2149,12 +1945,10 @@
                 "question": "人民幣從1949年到1952年是採用什麼匯率制度?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "浮動匯率制度",
                         "answer_start": 208
                     },
                     {
-                        "id": "2",
                         "text": "浮動匯率制度",
                         "answer_start": 208
                     }
@@ -2170,12 +1964,10 @@
                 "question": "聯合國安理會常任理事五個創始成員國是二戰期間哪一方的五大國?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "同盟國",
                         "answer_start": 41
                     },
                     {
-                        "id": "2",
                         "text": "同盟國",
                         "answer_start": 41
                     }
@@ -2191,12 +1983,10 @@
                 "question": "直隸東南代牧區在什麼事件當中死了五千多人？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "義和團事變",
                         "answer_start": 7
                     },
                     {
-                        "id": "2",
                         "text": "義和團事變",
                         "answer_start": 7
                     }
@@ -2212,12 +2002,10 @@
                 "question": "哪一個人於2015年智利總統巴切萊特在總統府舉行國宴時現場領唱《義勇軍進行曲》?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "李克強",
                         "answer_start": 71
                     },
                     {
-                        "id": "2",
                         "text": "李克強",
                         "answer_start": 71
                     }
@@ -2233,12 +2021,10 @@
                 "question": "位於美國的洛杉磯快艇球隊其主場位在何處?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "史坦波中心",
                         "answer_start": 44
                     },
                     {
-                        "id": "2",
                         "text": "史坦波中心",
                         "answer_start": 44
                     }
@@ -2254,12 +2040,10 @@
                 "question": "中國科大內共設有幾個國家人才培養基地?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "4個",
                         "answer_start": 54
                     },
                     {
-                        "id": "2",
                         "text": "4個",
                         "answer_start": 54
                     }
@@ -2275,12 +2059,10 @@
                 "question": "任職中興大學學生會內部哪一個職位的人有權力組成行政中心內閣?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "會長",
                         "answer_start": 61
                     },
                     {
-                        "id": "2",
                         "text": "會長",
                         "answer_start": 61
                     }
@@ -2296,12 +2078,10 @@
                 "question": "哪一片海域為英屬維京群島的所在處?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "加勒比海",
                         "answer_start": 26
                     },
                     {
-                        "id": "2",
                         "text": "加勒比海",
                         "answer_start": 26
                     }
@@ -2317,12 +2097,10 @@
                 "question": "讓民主黨在1874年的選戰中奪回國會眾議院裡的多數派地位是由於什麼事件?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "經濟蕭條",
                         "answer_start": 11
                     },
                     {
-                        "id": "2",
                         "text": "經濟蕭條",
                         "answer_start": 11
                     }
@@ -2338,12 +2116,10 @@
                 "question": "南加大是私立大學，由監理會管理，監理會投票成員幾年為一任?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "五年",
                         "answer_start": 62
                     },
                     {
-                        "id": "2",
                         "text": "五年",
                         "answer_start": 62
                     }
@@ -2359,12 +2135,10 @@
                 "question": "湯瑪斯·霍布斯是哪國人?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "英國",
                         "answer_start": 9
                     },
                     {
-                        "id": "2",
                         "text": "英國",
                         "answer_start": 9
                     }
@@ -2380,12 +2154,10 @@
                 "question": "耶穌不肯喝士兵提供的什麼東西?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "混合苦膽的酒",
                         "answer_start": 14
                     },
                     {
-                        "id": "2",
                         "text": "混合苦膽的酒",
                         "answer_start": 14
                     }
@@ -2401,12 +2173,10 @@
                 "question": "共同民主黨與什麼組織是韓國的兩大政黨？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "自由韓國黨",
                         "answer_start": 37
                     },
                     {
-                        "id": "2",
                         "text": "自由韓國黨",
                         "answer_start": 37
                     }
@@ -2422,12 +2192,10 @@
                 "question": "五月天最早於哪一年和滾石公司簽約?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1997年",
                         "answer_start": 38
                     },
                     {
-                        "id": "2",
                         "text": "1997年",
                         "answer_start": 38
                     }
@@ -2443,12 +2211,10 @@
                 "question": "卡特在哪一年時被保送進在安那波利斯的美國海軍官校?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1943年",
                         "answer_start": 43
                     },
                     {
-                        "id": "2",
                         "text": "1943年",
                         "answer_start": 43
                     }
@@ -2464,12 +2230,10 @@
                 "question": "藏品數量最多的埃及博物館位於哪一個城市?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "開羅",
                         "answer_start": 29
                     },
                     {
-                        "id": "2",
                         "text": "杜林",
                         "answer_start": 206
                     }
@@ -2485,12 +2249,10 @@
                 "question": "雜種與亞種不在哪一種規則的規範內？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "動物命名法",
                         "answer_start": 96
                     },
                     {
-                        "id": "2",
                         "text": "動物命名法",
                         "answer_start": 96
                     }
@@ -2506,12 +2268,10 @@
                 "question": "於奧地利每10萬人中有多少人會自殺?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "40人",
                         "answer_start": 39
                     },
                     {
-                        "id": "2",
                         "text": "40人",
                         "answer_start": 39
                     }
@@ -2527,12 +2287,10 @@
                 "question": "連續三年在排水不良的田中掩埋稻草的話最多稻米的產量會增加多少？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "8％",
                         "answer_start": 33
                     },
                     {
-                        "id": "2",
                         "text": "約5～8％",
                         "answer_start": 30
                     }
@@ -2548,12 +2306,10 @@
                 "question": "中國科大內連接東區西區的中校區在哪一年時被興建?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "2012年",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "2012年",
                         "answer_start": 0
                     }
@@ -2569,12 +2325,10 @@
                 "question": "腓力五世曾於1724年時決定禪位給哪一個人?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "路易斯一世",
                         "answer_start": 30
                     },
                     {
-                        "id": "2",
                         "text": "路易斯一世",
                         "answer_start": 30
                     }
@@ -2590,12 +2344,10 @@
                 "question": "熱帶雨林大多分布在南北緯多少度之間?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "10度",
                         "answer_start": 135
                     },
                     {
-                        "id": "2",
                         "text": "10度",
                         "answer_start": 135
                     }
@@ -2611,12 +2363,10 @@
                 "question": "慈運理的哪一個學說和路德的合質說不同而相持不下?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "聖餐持紀念說",
                         "answer_start": 31
                     },
                     {
-                        "id": "2",
                         "text": "紀念說",
                         "answer_start": 34
                     }
@@ -2632,12 +2382,10 @@
                 "question": "世界上第二大島嶼位於哪一個國家的北邊?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "澳大利亞",
                         "answer_start": 6
                     },
                     {
-                        "id": "2",
                         "text": "澳大利亞",
                         "answer_start": 6
                     }
@@ -2653,12 +2401,10 @@
                 "question": "南達肯尼河是哪一條河的支流?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "恆河",
                         "answer_start": 2
                     },
                     {
-                        "id": "2",
                         "text": "恆河",
                         "answer_start": 2
                     }
@@ -2674,12 +2420,10 @@
                 "question": "誰與織田信長稱霸日本的時代為安土桃山時代?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "豐臣秀吉",
                         "answer_start": 33
                     },
                     {
-                        "id": "2",
                         "text": "豐臣秀吉",
                         "answer_start": 33
                     }
@@ -2695,12 +2439,10 @@
                 "question": "蒙古第二次西征於何年展開?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1235年",
                         "answer_start": 5
                     },
                     {
-                        "id": "2",
                         "text": "1235年",
                         "answer_start": 5
                     }
@@ -2716,12 +2458,10 @@
                 "question": "日本政府在哪一年的時候已經可以對釣魚臺施行管理權力?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1972年",
                         "answer_start": 6
                     },
                     {
-                        "id": "2",
                         "text": "1972年",
                         "answer_start": 6
                     }
@@ -2737,12 +2477,10 @@
                 "question": "一開始的郵票黑便士因有人鑽漏洞重複使用，所以從什麼時候開始改用紅色印刷的紅便士?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1841年2月10日",
                         "answer_start": 189
                     },
                     {
-                        "id": "2",
                         "text": "1841年2月10日",
                         "answer_start": 189
                     }
@@ -2758,12 +2496,10 @@
                 "question": "早田在哪一年時受到其同鄉川上浩二郎的邀請首度到台灣?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1897年",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "1897年",
                         "answer_start": 0
                     }
@@ -2779,12 +2515,10 @@
                 "question": "一戰期間，西線戰事主要都發生在哪個國家境內?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "法國",
                         "answer_start": 19
                     },
                     {
-                        "id": "2",
                         "text": "法國",
                         "answer_start": 19
                     }
@@ -2800,12 +2534,10 @@
                 "question": "中華民國空軍最高的層級是?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "國防部空軍司令部",
                         "answer_start": 19
                     },
                     {
-                        "id": "2",
                         "text": "國防部空軍司令部",
                         "answer_start": 19
                     }
@@ -2821,12 +2553,10 @@
                 "question": "阿森松島的主要收入來源是什麼?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "政府財政撥款",
                         "answer_start": 10
                     },
                     {
-                        "id": "2",
                         "text": "政府財政撥款",
                         "answer_start": 10
                     }
@@ -2842,12 +2572,10 @@
                 "question": "傳統的客家菜式在中山的哪一地區有機會看的到？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "五桂山",
                         "answer_start": 16
                     },
                     {
-                        "id": "2",
                         "text": "五桂山",
                         "answer_start": 16
                     }
@@ -2863,12 +2591,10 @@
                 "question": "莫萊-明托改革後誕生的這些議員，往往被視為哪一種組織的代言人?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "當地印度組織",
                         "answer_start": 96
                     },
                     {
-                        "id": "2",
                         "text": "當地印度組織",
                         "answer_start": 96
                     }
@@ -2884,12 +2610,10 @@
                 "question": "文中提及，師級之間的步兵軍編制以及哪個制度被紅軍高層廢除?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "集團軍",
                         "answer_start": 39
                     },
                     {
-                        "id": "2",
                         "text": "集團軍",
                         "answer_start": 39
                     }
@@ -2905,12 +2629,10 @@
                 "question": "整個中環及灣仔填海計劃的最後一期工程以什麼為重心？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "交通基建",
                         "answer_start": 33
                     },
                     {
-                        "id": "2",
                         "text": "交通基建",
                         "answer_start": 33
                     }
@@ -2926,12 +2648,10 @@
                 "question": "colossus在古希臘文中所代表的意義是?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "「雕像」",
                         "answer_start": 113
                     },
                     {
-                        "id": "2",
                         "text": "雕像",
                         "answer_start": 114
                     }
@@ -2947,12 +2667,10 @@
                 "question": "芝加哥大學結合兩種大學理念，一是紐曼，另一個是?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "洪堡",
                         "answer_start": 54
                     },
                     {
-                        "id": "2",
                         "text": "洪堡",
                         "answer_start": 54
                     }
@@ -2968,12 +2686,10 @@
                 "question": "喀爾巴阡山脈的總長度大約為多少公里?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1500公里",
                         "answer_start": 22
                     },
                     {
-                        "id": "2",
                         "text": "1500公里",
                         "answer_start": 22
                     }
@@ -2989,12 +2705,10 @@
                 "question": "五台山位於哪一地形的中部？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "太白山脈",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "太白山脈",
                         "answer_start": 0
                     }
@@ -3010,12 +2724,10 @@
                 "question": "明太祖採用什麼戰術試圖占領北方?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "兵分二路，各個擊破",
                         "answer_start": 107
                     },
                     {
-                        "id": "2",
                         "text": "各個擊破",
                         "answer_start": 112
                     }
@@ -3031,12 +2743,10 @@
                 "question": "何人成為功利主義學派的接班人?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "彌爾",
                         "answer_start": 73
                     },
                     {
-                        "id": "2",
                         "text": "彌爾",
                         "answer_start": 73
                     }
@@ -3052,12 +2762,10 @@
                 "question": "香港的上海新移民有許多居住在觀塘區和哪一個區域?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "黃大仙區",
                         "answer_start": 39
                     },
                     {
-                        "id": "2",
                         "text": "黃大仙區",
                         "answer_start": 39
                     }
@@ -3073,12 +2781,10 @@
                 "question": "哪些聲稱奉行「社會主義」國家的政治體制並不是經典的共產黨一黨體制?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "第三世界國家",
                         "answer_start": 10
                     },
                     {
-                        "id": "2",
                         "text": "不少第三世界國家",
                         "answer_start": 8
                     }
@@ -3094,12 +2800,10 @@
                 "question": "1963年11月，劉少奇讓誰參加四清工作隊，將總結的的桃園經驗作為抓點帶面開展社會主義教育運動的藍本?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "王光美",
                         "answer_start": 15
                     },
                     {
-                        "id": "2",
                         "text": "王光美",
                         "answer_start": 15
                     }
@@ -3115,12 +2819,10 @@
                 "question": "錫克教徒於哪一年首次到美國?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1908年",
                         "answer_start": 137
                     },
                     {
-                        "id": "2",
                         "text": "1908年",
                         "answer_start": 137
                     }
@@ -3136,12 +2838,10 @@
                 "question": "隨著二戰的爆發而逐漸進步為麻省理工哪方面的活動?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "軍事科研活動",
                         "answer_start": 7
                     },
                     {
-                        "id": "2",
                         "text": "軍事科研",
                         "answer_start": 7
                     }
@@ -3157,12 +2857,10 @@
                 "question": "波你尼梵語與哪一門語言非常相似？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "吠陀梵語",
                         "answer_start": 31
                     },
                     {
-                        "id": "2",
                         "text": "吠陀梵語",
                         "answer_start": 31
                     }
@@ -3178,12 +2876,10 @@
                 "question": "十億位元組的動態隨機存取記憶體韓國於何時研發出來？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1996年",
                         "answer_start": 60
                     },
                     {
-                        "id": "2",
                         "text": "1996年",
                         "answer_start": 60
                     }
@@ -3199,12 +2895,10 @@
                 "question": "金正日曾於2010年9月27日時任命了哪一個人擔任朝鮮人民軍大將一職?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "金正恩",
                         "answer_start": 37
                     },
                     {
-                        "id": "2",
                         "text": "金正恩",
                         "answer_start": 37
                     }
@@ -3220,12 +2914,10 @@
                 "question": "德國總參謀長小毛奇為甚麼決定於西線調派多一些兵力到東線上應付俄軍?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "害怕德軍在東線戰線上沒有足夠兵力應付俄國",
                         "answer_start": 51
                     },
                     {
-                        "id": "2",
                         "text": "害怕德軍在東線戰線上沒有足夠兵力應付俄國",
                         "answer_start": 51
                     }
@@ -3241,12 +2933,10 @@
                 "question": "安提諾烏斯是誰的戀人?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "哈德良",
                         "answer_start": 97
                     },
                     {
-                        "id": "2",
                         "text": "哈德良",
                         "answer_start": 97
                     }
@@ -3262,12 +2952,10 @@
                 "question": "波拿巴主義者反對何人的登基?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "路易-菲利普",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "路易-菲利普",
                         "answer_start": 0
                     }
@@ -3283,12 +2971,10 @@
                 "question": "中國廣播公司一直到哪一年才以「現在時間」取代「中原標準時間」作整點報時?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "2007年",
                         "answer_start": 29
                     },
                     {
-                        "id": "2",
                         "text": "2007年",
                         "answer_start": 29
                     }
@@ -3304,12 +2990,10 @@
                 "question": "新加坡主要的民族是?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "華人",
                         "answer_start": 26
                     },
                     {
-                        "id": "2",
                         "text": "福建人",
                         "answer_start": 60
                     }
@@ -3325,12 +3009,10 @@
                 "question": "中國鐵路廣州局集團有限公司的前身是?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "廣州鐵路公司",
                         "answer_start": 16
                     },
                     {
-                        "id": "2",
                         "text": "廣州鐵路公司",
                         "answer_start": 16
                     }
@@ -3346,12 +3028,10 @@
                 "question": "東羅馬帝國本為羅馬帝國的東半部，且整體崇尚哪個文明?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "希臘文化",
                         "answer_start": 20
                     },
                     {
-                        "id": "2",
                         "text": "希臘文化",
                         "answer_start": 20
                     }
@@ -3367,12 +3047,10 @@
                 "question": "世界上歷史最悠久的古典音樂節為？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "哥廷根亨德爾國際音樂節",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "哥廷根亨德爾國際音樂節",
                         "answer_start": 0
                     }
@@ -3388,12 +3066,10 @@
                 "question": "大陸會議於何年召開?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1787年",
                         "answer_start": 46
                     },
                     {
-                        "id": "2",
                         "text": "1787",
                         "answer_start": 46
                     }
@@ -3409,12 +3085,10 @@
                 "question": "許多捷克斯洛伐克人以及哪一個國家的人將柏林視為通往西方的通道?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "波蘭人",
                         "answer_start": 8
                     },
                     {
-                        "id": "2",
                         "text": "波蘭人",
                         "answer_start": 8
                     }
@@ -3430,12 +3104,10 @@
                 "question": "哪一團體的司法保障權利逐漸受到關注?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "弱勢群體",
                         "answer_start": 3
                     },
                     {
-                        "id": "2",
                         "text": "弱勢群體",
                         "answer_start": 3
                     }
@@ -3451,12 +3123,10 @@
                 "question": "哪一個會議對於毛澤東重掌軍權有著決定性的作用?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "遵義會議",
                         "answer_start": 126
                     },
                     {
-                        "id": "2",
                         "text": "遵義會議",
                         "answer_start": 126
                     }
@@ -3472,12 +3142,10 @@
                 "question": "德國第一家正式掛牌的中餐館的業主為哪裡人?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "香港人",
                         "answer_start": 58
                     },
                     {
-                        "id": "2",
                         "text": "香港人",
                         "answer_start": 58
                     }
@@ -3493,12 +3161,10 @@
                 "question": "唐納德·赫布是哪國人?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "加拿大",
                         "answer_start": 57
                     },
                     {
-                        "id": "2",
                         "text": "加拿大",
                         "answer_start": 57
                     }
@@ -3514,12 +3180,10 @@
                 "question": "在居維葉擔任法蘭西公學院自然歷史教授之前此職位由哪個人所任職?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "道本頓",
                         "answer_start": 11
                     },
                     {
-                        "id": "2",
                         "text": "道本頓",
                         "answer_start": 11
                     }
@@ -3535,12 +3199,10 @@
                 "question": "鄭氏治理時期總共持續多久?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "22年",
                         "answer_start": 66
                     },
                     {
-                        "id": "2",
                         "text": "22",
                         "answer_start": 66
                     }
@@ -3556,12 +3218,10 @@
                 "question": "美國當時實行貿易保護主義是因為美國國內的甚麼條件?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "有一個龐大的內需市場",
                         "answer_start": 129
                     },
                     {
-                        "id": "2",
                         "text": "龐大的內需市場",
                         "answer_start": 132
                     }
@@ -3577,12 +3237,10 @@
                 "question": "美國南北戰爭前，南方各州因為大規模種植哪種作物，導致其對奴隸倚賴很深?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "棉花",
                         "answer_start": 3
                     },
                     {
-                        "id": "2",
                         "text": "棉花",
                         "answer_start": 3
                     }
@@ -3598,12 +3256,10 @@
                 "question": "腓力四世在迎娶胡安娜後其王權在何處有了較穩定的基礎?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "法國東部",
                         "answer_start": 33
                     },
                     {
-                        "id": "2",
                         "text": "法國東部",
                         "answer_start": 33
                     }
@@ -3619,12 +3275,10 @@
                 "question": "紅超巨星是恆星在氦燃燒階段時因為質量怎樣而形成？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "超過9倍太陽質量",
                         "answer_start": 9
                     },
                     {
-                        "id": "2",
                         "text": "超過9倍太陽質量",
                         "answer_start": 9
                     }
@@ -3640,12 +3294,10 @@
                 "question": "世界最早的欠資郵票出現於哪裡?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "法國",
                         "answer_start": 113
                     },
                     {
-                        "id": "2",
                         "text": "法國",
                         "answer_start": 113
                     }
@@ -3661,12 +3313,10 @@
                 "question": "在何時毛澤東正式宣布自己退居二線，由劉少奇擔任一線工作?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1953年12月",
                         "answer_start": 30
                     },
                     {
-                        "id": "2",
                         "text": "1953年12月",
                         "answer_start": 30
                     }
@@ -3682,12 +3332,10 @@
                 "question": "鐵路工人於何年的四月罷工?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1920年",
                         "answer_start": 28
                     },
                     {
-                        "id": "2",
                         "text": "1920",
                         "answer_start": 28
                     }
@@ -3703,12 +3351,10 @@
                 "question": "南琅琊郡、南東平郡等地為誰所設置?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "東晉元帝",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "東晉元帝",
                         "answer_start": 0
                     }
@@ -3724,12 +3370,10 @@
                 "question": "國共內戰的國民政府為哪個黨派所領導?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "中國國民黨",
                         "answer_start": 48
                     },
                     {
-                        "id": "2",
                         "text": "中國國民黨",
                         "answer_start": 48
                     }
@@ -3745,12 +3389,10 @@
                 "question": "庫克群島為什麼在近年來開始嘗試在外交方面擁有更多的主導權?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "以期能轉變成一個真正獨立的主權國家",
                         "answer_start": 112
                     },
                     {
-                        "id": "2",
                         "text": "轉變成一個真正獨立的主權國家",
                         "answer_start": 115
                     }
@@ -3766,12 +3408,10 @@
                 "question": "韓國的大學中哪一種的比例在國內佔了其他兩種合起來的4倍以上？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "私立大學",
                         "answer_start": 34
                     },
                     {
-                        "id": "2",
                         "text": "私立大學",
                         "answer_start": 34
                     }
@@ -3787,12 +3427,10 @@
                 "question": "前田利家在哪一年過世?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1599年",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "1599",
                         "answer_start": 0
                     }
@@ -3808,12 +3446,10 @@
                 "question": "現在吃的稻米其原生種普遍上共有多少種？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "446",
                         "answer_start": 69
                     },
                     {
-                        "id": "2",
                         "text": "446種",
                         "answer_start": 69
                     }
@@ -3829,12 +3465,10 @@
                 "question": "周恩來曾於萬隆會議上反對哪一個主義?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "殖民主義",
                         "answer_start": 29
                     },
                     {
-                        "id": "2",
                         "text": "殖民主義",
                         "answer_start": 29
                     }
@@ -3850,12 +3484,10 @@
                 "question": "中國明清兩朝的武官官職軍階的正式名稱為何?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "總兵",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "總兵官",
                         "answer_start": 9
                     }
@@ -3871,12 +3503,10 @@
                 "question": "懷羌縣於中國的哪一個朝代時最先設置?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "北宋",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "北宋",
                         "answer_start": 0
                     }
@@ -3892,12 +3522,10 @@
                 "question": "劉少奇在何時病逝?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "1969年11月12日",
                         "answer_start": 169
                     },
                     {
-                        "id": "2",
                         "text": "1969年11月12日凌晨6時45分",
                         "answer_start": 169
                     }
@@ -3913,12 +3541,10 @@
                 "question": "哪一個單位負責審查每一部影視作品能否在國內公開上演?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "廣電總局",
                         "answer_start": 9
                     },
                     {
-                        "id": "2",
                         "text": "廣電總局",
                         "answer_start": 9
                     }
@@ -3934,12 +3560,10 @@
                 "question": "漢江於陝西省漢中市內共有幾個源頭?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "三個",
                         "answer_start": 19
                     },
                     {
-                        "id": "2",
                         "text": "三個",
                         "answer_start": 19
                     }
@@ -3955,12 +3579,10 @@
                 "question": "中共第一個民族區域自治政權是哪一個?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "內蒙古自治政府",
                         "answer_start": 124
                     },
                     {
-                        "id": "2",
                         "text": "內蒙古自治政府",
                         "answer_start": 124
                     }
@@ -3976,12 +3598,10 @@
                 "question": "南華縣隸屬於哪一個國家所管轄?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "中華人民共和國",
                         "answer_start": 4
                     },
                     {
-                        "id": "2",
                         "text": "中華人民共和國",
                         "answer_start": 4
                     }
@@ -3997,12 +3617,10 @@
                 "question": "佔16.2%為長崎縣第幾的產業?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "第二產業",
                         "answer_start": 83
                     },
                     {
-                        "id": "2",
                         "text": "第二產業",
                         "answer_start": 83
                     }
@@ -4018,12 +3636,10 @@
                 "question": "於1934年麻省理工學院入席哪個單位?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "美國大學協會",
                         "answer_start": 14
                     },
                     {
-                        "id": "2",
                         "text": "美國大學協會",
                         "answer_start": 14
                     }
@@ -4039,12 +3655,10 @@
                 "question": "麻豆與哪一單詞是同義？",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "模特兒",
                         "answer_start": 0
                     },
                     {
-                        "id": "2",
                         "text": "模特兒",
                         "answer_start": 0
                     }
@@ -4060,12 +3674,10 @@
                 "question": "全美第一所什麼學院為於麻省理工?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "建築學院",
                         "answer_start": 17
                     },
                     {
-                        "id": "2",
                         "text": "麻省理工建築與規劃學院",
                         "answer_start": 0
                     }
@@ -4081,12 +3693,10 @@
                 "question": "圖瓦共和國的首府是哪一個城市?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "克孜勒",
                         "answer_start": 54
                     },
                     {
-                        "id": "2",
                         "text": "克孜勒",
                         "answer_start": 54
                     }
@@ -4102,12 +3712,10 @@
                 "question": "利用哪種戰機，摧毀敵方的生產力，進而結束第二次世界大戰是該期間各國的目標?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "轟炸機",
                         "answer_start": 2
                     },
                     {
-                        "id": "2",
                         "text": "轟炸機",
                         "answer_start": 2
                     }
@@ -4123,12 +3731,10 @@
                 "question": "荷蘭東印度公司原本一開始是想以何處作為貿易前哨站?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "澎湖",
                         "answer_start": 16
                     },
                     {
-                        "id": "2",
                         "text": "澎湖",
                         "answer_start": 16
                     }
@@ -4144,12 +3750,10 @@
                 "question": "越南共產黨採用哪一種經濟體制?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "「社會主義市場經濟」",
                         "answer_start": 114
                     },
                     {
-                        "id": "2",
                         "text": "社會主義市場經濟",
                         "answer_start": 115
                     }
@@ -4165,12 +3769,10 @@
                 "question": "清太祖遣兵四百收瀕海散各部這一段為誰所寫的書中提到?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "魏源",
                         "answer_start": 8
                     },
                     {
-                        "id": "2",
                         "text": "聖武記",
                         "answer_start": 12
                     }
@@ -4186,12 +3788,10 @@
                 "question": "心理學包含兩個領域，其中一個是應用心理學，另一個領域是?",
                 "answers": [
                     {
-                        "id": "1",
                         "text": "理論心理學",
                         "answer_start": 53
                     },
                     {
-                        "id": "2",
                         "text": "理論心理學",
                         "answer_start": 53
                     }
